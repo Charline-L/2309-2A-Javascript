@@ -28,4 +28,46 @@ Moitié
 Fin
 
 <===
+
+
+
+
+#2 Créer une boucle qui à partir du tableau ci-après: 
+- affiche toutes les lettres de l'alphabet dans une même String
+
+===> Résultat dans la console : 
+
+abcdefghijklmnopqrstuvwxyz
+
+<=== 
+
 */
+
+const alphabet = [
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
+  "g",
+  "h",
+  "i",
+  "j",
+  "k",
+  "l",
+  "m",
+  "n",
+  "o",
+  "p",
+  "q",
+  "r",
+  "s",
+  "t",
+  "u",
+  "v",
+  "w",
+  "x",
+  "y",
+  "z",
+];
