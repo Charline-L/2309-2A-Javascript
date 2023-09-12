@@ -9,9 +9,9 @@ Documentation utile :
 
 #1 Créer une boucle qui :
 - affiche les nombres de 0 à 10
-- si le nombre est égale à 0 doit en plus afficher "Début"
-- si le nombre est égale à 5 doit en plus afficher "Moitié"
-- si le nombre est égale à 10 doit en plus afficher "Fin"
+- si le nombre est égale à 0 il doit afficher "Début"
+- si le nombre est égale à 5 il doit afficher "Moitié"
+- si le nombre est égale à 10 il doit afficher "Fin"
 
 ==> Résultat dans la console : 
 
@@ -25,7 +25,7 @@ Moitié
 7
 8
 9
-FIN
+Fin
 
 <===
 
@@ -42,4 +42,31 @@ abcdefghijklmnopqrstuvwxyz
 
 */
 
-const alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+const alphabet = [
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
+  "g",
+  "h",
+  "i",
+  "j",
+  "k",
+  "l",
+  "m",
+  "n",
+  "o",
+  "p",
+  "q",
+  "r",
+  "s",
+  "t",
+  "u",
+  "v",
+  "w",
+  "x",
+  "y",
+  "z",
+];
