@@ -1,6 +1,6 @@
 // let / var / const
 
-// mot clé + nom en camelCase =
+// nom en camelCase
 
 // Types de variables 'simples' = 1 variable = 1 information
 const myName = "Charline"; // String
