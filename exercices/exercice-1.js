@@ -14,11 +14,11 @@ Charline 30
 
 #2 Créer un objet qui a les valeurs suivantes : 
 - nom école
-- nom fillière
+- nom filière
 - année de diplome
 - la liste des matières étudiées
 
-Puis afficher chacune des valuers dans la console
+Puis afficher chacune des valeurs dans la console
 
 ==> Résultat dans la console : 
 
@@ -33,4 +33,3 @@ https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScr
 
 
 */
-
