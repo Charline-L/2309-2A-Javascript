@@ -2,12 +2,12 @@
 
 À partir d'une balise "a" vide dans votre HTML
 Générez un hyperlien qui redirige vers la page linkedin de notre utilisateur.
-Pour cela vous devrez demander le nom d'utilisateur du visiteur.
+Pour cela vous devez demander le nom d'utilisateur du visiteur.
 Si le nom d'utilisateur est vide ajouter la class disabled en CSS qui rend le lien inactif.
 Si le nom d'utilisateur est rempli le lien doit s'ouvrir dans un nouvel onglet au click
 
 Documentation utile : 
-- Prompt : https://developer.mozilla.org/fr/docs/Web/API/Window/prompt
+- Prompt : https://developer.mozilla.org/fr/docs/Web/API/Window/prompt#exemples
 - Contenu : https://developer.mozilla.org/fr/docs/Web/API/Node/textContent
 - Attribut : https://developer.mozilla.org/fr/docs/Web/API/Element/setAttribute
 - Class : https://developer.mozilla.org/fr/docs/Web/API/Element/classList
