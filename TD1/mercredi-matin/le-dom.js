@@ -28,3 +28,7 @@ button.classList.remove('blue')
 const img = document.querySelector("img")
 // setAttribute(duNom , deLaValeur)
 img.setAttribute("src", "img/Wiki.jpg")
+
+// Prompt 
+const firstName = prompt('ton prénom ?')
+console.log(firstName)
