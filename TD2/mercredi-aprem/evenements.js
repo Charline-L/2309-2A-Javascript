@@ -35,5 +35,5 @@ button.addEventListener('click', function() {
 
 // LE CLAVIER
 window.addEventListener('keypress', function(event) {
-    console.log('touche appuyée', event.key)
+    console.log(event)
 })
